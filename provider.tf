@@ -3,8 +3,8 @@ provider "aws" {
 }
 
  provider "azurerm" {
-   subscription_id = "your-azure-subscription-id"
-   client_id = "your-azure-client-id"
-   client_secret = "your-azure-client-secret"
-   tenant_id = "your-azure-tenant-id"
+   subscription_id = "azure-subscription-id"
+   client_id = "azure-client-id"
+   client_secret = "azure-client-secret"
+   tenant_id = "azure-tenant-id"
  }
