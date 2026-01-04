@@ -1,0 +1,7 @@
+aws-region = "ap-south-1"
+cidr_block = "10.0.0.0/16"
+cidr_for_subnet = "10.0.0.0/24"
+availability_zone_for_sb = "ap-south-1a"
+ami-id = "ami-02b8269d5e85954ef"
+instance_type = "t3.micro"
+Key_Pair = "instance-key"
